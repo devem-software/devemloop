@@ -1,7 +1,14 @@
 name: Codepen
-  uses: sarisia/actions-readme-feed@v1
-  with:
-    url: 'https://codepen.io/DEVemloop/public/feed'
-    file: 'README.md'
-    start_flag: "<!-- codepen start -->"
-    end_flag: "<!-- codepen end -->"
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+name: Update Codepen
+steps:
+  - uses: sarisia/actions-readme-feed@v1
+    with:
+      url: 'https://codepen.io/DEVemloop/public/feed'
+      file: 'README.md'
+      start_flag: "<!-- codepen start -->"
+      end_flag: "<!-- codepen end -->"
+
