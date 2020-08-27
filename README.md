@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devemloop)](https://github.com/devemloop/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=devemloop&show_icons=true&theme=radical)](https://github.com/devemloop)
+[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devemloop&show_icons=true&theme=radical)](https://github.com/devemloop)
