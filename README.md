@@ -5,8 +5,6 @@
 ### 📚 Read my posts
 <!-- blog start -->
 <!-- feed start -->
-- Aug 25 - [Hola comunidad Dev](https://dev.to/devemloop/hola-comunidad-dev-4am7)
-<!-- blog end -->
 - Aug 19 - [Accordeon <devemloop>](https://codepen.io/DEVemloop/pen/ZEWWojo)
 - Aug 19 - [portfolio](https://codepen.io/DEVemloop/pen/RwNELxe)
 - Aug 14 - [User Card <devemloop>](https://codepen.io/DEVemloop/pen/yLOYWYr)
