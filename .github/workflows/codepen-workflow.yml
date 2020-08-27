@@ -1,14 +1,21 @@
-name: Codepen
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-name: Update Codepen
-steps:
-  - uses: sarisia/actions-readme-feed@v1
-    with:
-      url: 'https://codepen.io/DEVemloop/public/feed'
-      file: 'README.md'
-      start_flag: "<!-- codepen start -->"
-      end_flag: "<!-- codepen end -->"
+    - cron: '0 */6 * * *'
 
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://codepen.io/DEVemloop/public/feed'
+          file: 'README.md'
+          tart_flag: "<!-- codepen start -->"
+          end_flag: "<!-- codepen end -->"
+      - run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "docs: update feed" || true
+          git push
