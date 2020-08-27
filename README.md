@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Hola comunidad Dev](https://dev.to/devemloop/hola-comunidad-dev-4am7)
 <!-- BLOG-POST-LIST:END -->
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devemloop)](https://github.com/devemloop/github-readme-stats)
