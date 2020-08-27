@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ### ✒ See my codepen
-<!-- CODEPEN:START -->
-<!-- CODEPEN:END -->
+<!-- codepen:START -->
+<!-- codepen:END -->
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=devemloop&show_icons=true)](https://github.com/devemloop)
