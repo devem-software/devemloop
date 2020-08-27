@@ -7,14 +7,15 @@ jobs:
   readme:
     runs-on: ubuntu-latest
     steps:
-    - uses: sarisia/actions-readme-feed@v1
     - name: blog
+      uses: sarisia/actions-readme-feed@v1
       with:
         url: 'https://dev.to/feed/devemloop/'
         file: 'README.md'
         start_flag: "<!-- blog start -->"
         end_flag: "<!-- blog end -->"
     - name: codepen
+      uses: sarisia/actions-readme-feed@v1
       with:
         url: 'https://codepen.io/DEVemloop/public/feed'
         file: 'README.md'
