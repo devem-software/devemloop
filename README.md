@@ -1,19 +1,6 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=devemloop&show_icons=true)](https://github.com/devemloop)
 
-<!--
-**devemloop/devemloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devemloop&show_icons=true&compact=true)](https://github.com/devemloop)
 ---
 ### 📚 Read my posts
 <!-- blog start -->
@@ -30,8 +17,3 @@ Here are some ideas to get you started:
 - Aug 13 - [New UI](https://codepen.io/DEVemloop/pen/dyoXdWb)
 - Aug 13 - [Tab navigator](https://codepen.io/DEVemloop/pen/PowPeGV)
 <!-- codepen end -->
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=devemloop&show_icons=true)](https://github.com/devemloop)
-
-[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devemloop&show_icons=true)](https://github.com/devemloop)
