@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=devemloop&show_icons=true&theme=radical)](https://github.com/devemloop)
-[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devemloop&show_icons=true&theme=radical)](https://github.com/devemloop)
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=devemloop&show_icons=true)](https://github.com/devemloop)
+[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devemloop&show_icons=true)](https://github.com/devemloop)
