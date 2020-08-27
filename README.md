@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ---
 ### 📚 Read my posts
 <!-- blog start -->
+<!-- feed start -->
+- Aug 25 - [Hola comunidad Dev](https://dev.to/devemloop/hola-comunidad-dev-4am7)
 <!-- blog end -->
 
 ### ✒ See my codepen
