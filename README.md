@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 ---
 ### 📚 Read my posts
-<!-- BLOG-POST-LIST:START -->
-- [Hola comunidad Dev](https://dev.to/devemloop/hola-comunidad-dev-4am7)
-<!-- BLOG-POST-LIST:END -->
+<!-- blog start -->
+<!-- blog end -->
 
 ### ✒ See my codepen
 <!-- codepen start -->
