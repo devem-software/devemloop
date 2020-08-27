@@ -7,24 +7,24 @@ jobs:
   readme:
     runs-on: ubuntu-latest
     steps:
-      - name: blog
-        uses: sarisia/actions-readme-feed@v1
-        with:
-          url: 'https://dev.to/feed/devemloop/'
-          file: 'README.md'
-          start_flag: "<!-- blog start -->"
-          end_flag: "<!-- blog end -->"
-      - name: codepen
-        uses: sarisia/actions-readme-feed@v1
-        with:
-          url: 'https://codepen.io/DEVemloop/public/feed'
-          file: 'README.md'
-          start_flag: "<!-- codepen start -->"
-          end_flag: "<!-- codepen end -->"
-      - run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git add .
-          git commit -m "readme: update posts" || true
-          git push
+    - uses: sarisia/actions-readme-feed@v1
+    - name: blog
+      with:
+        url: 'https://dev.to/feed/devemloop/'
+        file: 'README.md'
+        start_flag: "<!-- blog start -->"
+        end_flag: "<!-- blog end -->"
+    - name: codepen
+      with:
+        url: 'https://codepen.io/DEVemloop/public/feed'
+        file: 'README.md'
+        start_flag: "<!-- codepen start -->"
+        end_flag: "<!-- codepen end -->"
+    - name: commit rendered README
+      run: |
+        git config --global user.name "${{ github.actor }}"
+        git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+        git add .
+        git commit -m "readme: update posts" || true
+        git push
 
