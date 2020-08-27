@@ -1,17 +1,7 @@
-
-name: Latest Codepens workflow
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-  
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "CODEPEN" 
-          feed_list: "https://codepen.io/DEVemloop/public/feed"
+name: Codepen
+  uses: sarisia/actions-readme-feed@v1
+  with:
+    url: 'https://codepen.io/DEVemloop/public/feed'
+    file: 'README.md'
+    start_flag: "<!-- codepen start -->"
+    end_flag: "<!-- codepen end -->"
