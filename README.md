@@ -1,7 +1,7 @@
 ### Edwin Marroquin &lt;DEVemloop/&gt;
 |                                                     STATS                                                    |                                                                LANGUAGES                                                                |
 |:------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/?username=devemloop)](https://github.com/devemloop) | [![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devemloo&layout=compact)](https://github.com/devemloop) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/?username=devemloop)](https://github.com/devemloop) | [![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devemloop&layout=compact)](https://github.com/devemloop) |
 ---
 ### 📚 Read my posts
 <!-- blog start -->
