@@ -12,9 +12,9 @@
 ---
 ### 💻 or visit my projects 
 <!-- codepen start -->
+- Sep 08 - [layout](https://codepen.io/DEVemloop/pen/rjLRop)
 - Aug 19 - [Accordeon <devemloop>](https://codepen.io/DEVemloop/pen/ZEWWojo)
 - Aug 19 - [portfolio](https://codepen.io/DEVemloop/pen/RwNELxe)
 - Aug 14 - [User Card <devemloop>](https://codepen.io/DEVemloop/pen/yLOYWYr)
 - Aug 13 - [New UI](https://codepen.io/DEVemloop/pen/dyoXdWb)
-- Aug 13 - [Tab navigator](https://codepen.io/DEVemloop/pen/PowPeGV)
 <!-- codepen end -->
